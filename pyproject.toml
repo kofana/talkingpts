@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 authors = [
   { name="me", email="me@me.me"},
 ]
-name = "talkingpts"
+name = "talkingheads"
 description = "A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi"
 readme = "README.md"
 requires-python = ">=3.8"
